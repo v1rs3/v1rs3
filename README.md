@@ -30,14 +30,13 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 ---
 
-### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=versefn&show_icons=true&theme=graywhite&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=versefn&theme=graywhite&hide_border=true" />
-</p>
+### How to Reach Me
+If you’d like to connect or discuss projects, feel free to dm me.
+
+- 📧 Email: versefnn@gmail.com  
+- 💬 Discord: 13.40.rar  
+- 🌐 Site: Coming soon  
 
 ---
 
