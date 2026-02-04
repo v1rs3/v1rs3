@@ -1,4 +1,4 @@
-# Verse-Profile
+
 <!-- ========================= -->
 <!--     GITHUB PROFILE README -->
 <!-- ========================= -->
@@ -20,15 +20,14 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 ### Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,git,github,vscode" />
 </p>
 
 ---
 
 ### Selected Projects
-- **Project One** – Brief description of what it does and why it exists  
-- **Project Two** – Brief description of the technology or problem it solves  
-- **Experimental Work** – Research, prototypes, or learning projects  
+- **Project Sync** – A 1:1 ogfn project hosting chapter 2 season 8   
+ 
 
 ---
 
@@ -45,11 +44,12 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 ### Links
 - GitHub: https://github.com/versefn
-- Sync: https://discord.gg/syncmp  
-- Portfolio: Coming soon  
+- Sync: https://discord.gg/syncmp   
 
+### How to reach me 
+- Discord: 13.40.rar
 ---
 
 <p align="center">
-  <i>Focused on quality, consistency, and growth.</i>
+  <i>Focused on quality and growth.</i>
 </p>
