@@ -34,17 +34,18 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 ### GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=versefn&show_icons=true&theme=graywhite&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=versefn&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
 ### Links
-- GitHub: https://github.com/YOUR_USERNAME  
+- GitHub: https://github.com/versefn
+- Sync: https://discord.gg/syncmp  
 - Portfolio: Coming soon  
 
 ---
