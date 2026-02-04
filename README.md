@@ -1,10 +1,9 @@
-
 <!-- ========================= -->
 <!--     GITHUB PROFILE README -->
 <!-- ========================= -->
 
 <h1 align="center">Hi, I'm Verse</h1>
-<h3 align="center"> Developer</h3>
+<h3 align="center">S=Ogfn Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=versefn&style=flat-square&color=6b7280" alt="profile views" />
@@ -20,14 +19,14 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 ### Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,react,git,github,vscode" />
 </p>
 
 ---
 
 ### Selected Projects
-- **Project Sync** – A 1:1 ogfn project hosting chapter 2 season 8   
- 
+- **Project Sync** – A 1:1 OGFN Experience Hosting ch2 s8 
+
 
 ---
 
@@ -43,13 +42,12 @@ I enjoy working on tools, systems, and applications that are both functional and
 ---
 
 ### Links
-- GitHub: https://github.com/versefn
-- Sync: https://discord.gg/syncmp   
+- GitHub: https://github.com/versefn  
+- Sync: https://discord.gg/syncmp
 
-### How to reach me 
-- Discord: 13.40.rar
 ---
 
 <p align="center">
-  <i>Focused on quality and growth.</i>
+  <i>Focused on quality.</i>
 </p>
+
