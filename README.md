@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">Hi, I'm Verse</h1>
-<h3 align="center">S=Ogfn Developer</h3>
+<h3 align="center">Ogfn Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=versefn&style=flat-square&color=6b7280" alt="profile views" />
