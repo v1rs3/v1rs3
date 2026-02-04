@@ -45,6 +45,6 @@ If you’d like to reach me or have any questions, feel free to dm me.
 ---
 
 <p align="center">
-  <i>Focused on quality.</i>
+  <i>Popular Repos ⬇️.</i>
 </p>
 
