@@ -12,9 +12,7 @@
 ---
 
 ### About Me
-I am a developer focused on building reliable, well-structured software and creative technical projects.  
-I enjoy working on tools, systems, and applications that are both functional and efficient.
-
+I am a 14 y/o old OGFN dev learning different langs such as ts,js,go,c++ and c#
 ---
 
 ### Technologies
@@ -32,7 +30,7 @@ I enjoy working on tools, systems, and applications that are both functional and
 
 
 ### How to Reach Me
-If you’d like to connect or discuss projects, feel free to dm me.
+If you’d like to reach me or have any questions, feel free to dm me.
 
 - 📧 Email: versefnn@gmail.com  
 - 💬 Discord: 13.40.rar  
