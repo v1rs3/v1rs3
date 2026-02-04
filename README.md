@@ -7,7 +7,7 @@
 <h3 align="center"> Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6b7280" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=versefn&style=flat-square&color=6b7280" alt="profile views" />
 </p>
 
 ---
