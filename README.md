@@ -12,7 +12,7 @@
 ---
 
 ### About Me
-I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++,c# and mastering html 
+I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++ and c#
 ---
 
 ### Technologies
