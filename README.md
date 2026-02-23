@@ -34,7 +34,7 @@ I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++ and c#
 If you’d like to reach me or have any questions, feel free to dm me.
 
 - 📧 Email: versefnn@gmail.com  
-- 💬 Discord: 14.40.zip 
+- 💬 Discord: v.erse 
 - 🌐 Site: Coming soon  
 
 ---
