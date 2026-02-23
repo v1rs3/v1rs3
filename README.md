@@ -24,7 +24,7 @@ I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++ and c#
 
 ### Selected Projects
 - **Project Sync** – A 1:1 OGFN Experience Hosting ch2 s8
-- **NexusFN** - a 1:1 14.40 Experience with full map arena Quests and all core features.
+- **Nexus** - a 1:1 14.40 Experience with full map arena Quests AI's and all core features.
 
 
 ---
