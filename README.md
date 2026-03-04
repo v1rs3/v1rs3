@@ -12,7 +12,7 @@
 ---
 
 ### About Me
-I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++ and c#
+I am a 14 y/o old developer learning various langs like ts,c++,golang and mastering UE Modding
 ---
 
 ### Technologies
@@ -23,7 +23,7 @@ I am a 14 y/o old OGFN dev learning different langs such as ts,js,c++ and c#
 ---
 
 ### Selected Projects
-- **Project Sync** – A 1:1 OGFN Experience Hosting ch2 s8
+- **Project Sync** – A 1:1 OGFN Experience Hosting ch1 s8
 - **Frost** - a 1:1 13.40 Experience with full map arena Quests AI's and all core features.
 
 
@@ -42,7 +42,7 @@ If you’d like to reach me or have any questions, feel free to dm me.
 ### Links
 - GitHub: https://github.com/versefn  
 - Sync: https://discord.gg/syncmp
-- Frost: https://discord.gg/frostmp
+- Frost: https://discord.gg/frostogfn
 
 ---
 
