@@ -35,8 +35,8 @@ I am a 14 y/o old developer learning various langs like ts,c++,golang and master
 If you’d like to reach me or have any questions, feel free to dm me.
 
 - 📧 Email: versefnn@gmail.com  
-- 💬 Discord: v.erse 
-- 🌐 Site: Coming soon  
+- 💬 Discord: v1rs3
+- 🌐 Site: https://v1rs3.netlify.app 
 
 ---
 
