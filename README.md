@@ -36,7 +36,7 @@ If you’d like to reach me or have any questions, feel free to dm me.
 
 - 📧 Email: versefnn@gmail.com  
 - 💬 Discord: v1rs3
-- 🌐 Site: https://v1rs3.netlify.app 
+
 
 ---
 
@@ -44,6 +44,7 @@ If you’d like to reach me or have any questions, feel free to dm me.
 - GitHub: https://github.com/versefn  
 - Sync: https://discord.gg/syncmp
 - Frost: https://discord.gg/frostogfn
+- Site: https://v1rs3.netlify.app 
 
 ---
 
