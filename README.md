@@ -17,7 +17,7 @@ I am a 14 y/o old developer learning various langs like ts,c++,golang and master
 
 ### Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,html,git,github,vscode" />
 </p>
 
 ---
