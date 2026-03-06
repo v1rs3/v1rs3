@@ -12,6 +12,9 @@
 ---
  <h1 align= "center"> <a href="https://wakatime.com/@2e680723-0b38-47eb-920a-27e11d5c469b"><img src="https://wakatime.com/badge/user/2e680723-0b38-47eb-920a-27e11d5c469b.svg" alt="Total time coded since Feb 25 2026" /></a>
 
+ 
+<p align="center"> [![Discord Presence](https://lanyard.cnrad.dev/api/1313209235328467024)](https://discord.com/users/1313209235328467024)
+
 ### About Me
 I am a 14 y/o old developer learning various langs like ts,c++,golang and mastering UE Modding
 ---
