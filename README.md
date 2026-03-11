@@ -14,7 +14,9 @@
 
 
 ### About Me
-I am a 14 y/o old developer learning various langs like ts,c++,golang and mastering UE Modding
+14 yr old developer
+UE Modder
+Learning ts, c++ and golang
 ---
 
 ### Technologies
