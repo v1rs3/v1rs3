@@ -12,7 +12,7 @@
 ---
  <h1 align= "center"> <a href="https://wakatime.com/@2e680723-0b38-47eb-920a-27e11d5c469b"><img src="https://wakatime.com/badge/user/2e680723-0b38-47eb-920a-27e11d5c469b.svg" alt="Total time coded since Feb 25 2026" /></a>
 
-<div>[![Discord Presence](https://lanyard.cnrad.dev/api/1313209235328467024?idleMessage=busy&showDisplayName=true&theme=dark)](https://discord.com/users/1313209235328467024)</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/726175834540605440?theme=dark&showDisplayName=true&idleMessage=offline)](https://discord.com/users/726175834540605440)
 
 ### About Me
 14 yr old developer
