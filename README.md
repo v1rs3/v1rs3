@@ -1,15 +1,11 @@
-<!-- ========================= -->
-<!--     GITHUB PROFILE README -->
-<!-- ========================= -->
 
-<h1 align="center">Hi, I'm Verse</h1>
-<h3 align="center">Ogfn Developer</h3>
+<h1 align="center">Hi, I'm Verse an OGFN Dev and Modder!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=versefn&style=flat-square&color=6b7280" alt="profile views" />
 </p>
 
----
+
  <h1 align= "center"> <a href="https://wakatime.com/@2e680723-0b38-47eb-920a-27e11d5c469b"><img src="https://wakatime.com/badge/user/2e680723-0b38-47eb-920a-27e11d5c469b.svg" alt="Total time coded since Feb 25 2026" /></a>
 
 
@@ -17,12 +13,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1313209235328467024?theme=dark&showDisplayName=true&idleMessage=offline)](https://discord.com/users/1313209235328467024)
 
 
-
-### About Me
-14 yr old developer
-UE Modder
-Learning ts, c++ and golang
----
 
 ### Technologies
 <p align="left">
@@ -32,8 +22,7 @@ Learning ts, c++ and golang
 ---
 
 ### Selected Projects
-- **Project Sync** – A 1:1 OGFN Experience Hosting ch1 s8
-- **Frost** - a 1:1 13.40 Experience with full map arena Quests AI's and all core features.
+- **Project Sync** – A 1:1 OGFN Experience Hosting ch1 s9
 
 
 ---
