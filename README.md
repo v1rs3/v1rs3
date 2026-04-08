@@ -11,7 +11,8 @@
 
 ---
  <h1 align= "center"> <a href="https://wakatime.com/@2e680723-0b38-47eb-920a-27e11d5c469b"><img src="https://wakatime.com/badge/user/2e680723-0b38-47eb-920a-27e11d5c469b.svg" alt="Total time coded since Feb 25 2026" /></a>
-<div>[![Discord Presence]([https://lanyard.cnrad.dev/api/:id](https://lanyard.cnrad.dev/api/1313209235328467024?idleMessage=busy&showDisplayName=true))](https://discord.com/users/1313209235328467024)<div>
+
+<div>https://lanyard.cnrad.dev/api/1313209235328467024?idleMessage=busy&showDisplayName=true&theme=dark</div>
 
 ### About Me
 14 yr old developer
