@@ -23,6 +23,7 @@
 
 ### Selected Projects
 - **Project Sync** – A 1:1 OGFN Experience Hosting ch1 s9
+- **
 
 
 ---
@@ -40,7 +41,6 @@ If you’d like to reach me or have any questions, feel free to dm me.
 ### Links
 - GitHub: https://github.com/versefn  
 - Sync: https://discord.gg/syncmp
-- Frost: https://discord.gg/frostogfn
 - Site: https://versedev.netlify.app 
 
 ---
