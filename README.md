@@ -23,7 +23,6 @@
 
 ### Selected Projects
 - **Project Sync** – A 1:1 OGFN Experience Hosting ch1 s9
-- **
 
 
 ---
