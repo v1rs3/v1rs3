@@ -38,7 +38,7 @@ If you’d like to reach me or have any questions, feel free to dm me.
 ---
 
 ### Links
-- GitHub: https://github.com/versefn  
+- GitHub: https://github.com/v1rs3
 - Sync: https://discord.gg/syncmp
 - Site: https://versedev.netlify.app 
 
